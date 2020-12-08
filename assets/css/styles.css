@@ -9,13 +9,6 @@
   --font-semi-bold: 600;
   --font-bold: 700;
   /*===== Colors =====*/
-  /* --first-color: #CC4B2C;
-  --first-color-dark: #662616;
-  --first-color-darken: #290F09;
-  --text-color: #54423D;
-  --first-color-light: #EAE7E6;
-  --first-color-lighten: #FFFAFA; */
-
   --first-color: #DC7633;
   --first-color-dark: black;
   --first-color-darken: #873600;
@@ -395,6 +388,7 @@ img{
 
 .education__container{
   row-gap: 2rem;
+  margin-bottom: 100px;
 }
 
 .education__content {
@@ -703,16 +697,17 @@ img{
   }
 
   #about {
-    padding-top: 60px;
+    padding-top: 100px;
+    padding-bottom: 50vh;
   }
 
   #skills {
     padding-top: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 50vh;
   }
 
   #education {
     padding-top: 200px;
-    padding-bottom: 230px;
+    padding-bottom: 50vh;
   }
 }
