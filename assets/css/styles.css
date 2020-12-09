@@ -710,4 +710,13 @@ img{
     padding-top: 200px;
     padding-bottom: 50vh;
   }
+
+  #services {
+    padding-top: 10vh;
+    padding-bottom: 50vh;
+  }
+
+  #works {
+    padding-bottom: 10vh;
+  }
 }
