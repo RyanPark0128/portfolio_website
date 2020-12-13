@@ -253,7 +253,7 @@ img{
 }
 
 .home__button{
-  width: 100%;
+  width: 70%;
 }
 /*BUTTONS*/
 .button{
@@ -473,23 +473,6 @@ img{
   transition: .5s;
 }
 
-.services__content:hover{
-  background-color: var(--first-color);
-}
-
-.services__content:hover .services__icon {
-  background-color: var(--first-color-lighten);
-  color: var(--first-color);
-}
-
-.services__content:hover .services__title {
-  color: var(--first-color-lighten);
-}
-
-.services__content:hover .services__description {
-  color: var(--first-color-lighten);
-}
-
 /* ===== PROJECT IN MIND  =====*/
 
 
@@ -607,6 +590,7 @@ img{
 
   .about__description {
     margin-bottom: var(--mb-5);
+    margin-left: var(--mb-5);
   }
 
   .about__img{
